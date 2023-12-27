@@ -52,6 +52,8 @@ This repository contains a simple Ninja game implemented in Python using the Pyg
 ## Contribution
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your contributions are highly appreciated!
 
+---
+
 # 2.Student Management System
 
 ## Introduction
