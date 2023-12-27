@@ -1,4 +1,58 @@
-# Student Management System
+# 1.Game Ninja Overcoming Levels
+
+## Introduction
+This repository contains a simple Ninja game implemented in Python using the Pygame library. The game features a ninja character that must overcome obstacles and enemies to score points.
+
+## Features
+1. **Gameplay Mechanics:**
+   - Jump using the UP arrow key.
+   - Slide using the DOWN arrow key.
+   - Throw darts using the SPACEBAR.
+   - Avoid obstacles and stay alive to score points.
+
+2. **Obstacles and Enemies:**
+   - Saw blades: Dodge these to avoid being hit.
+   - Spikes: Jump over these to avoid getting impaled.
+   - Monsters: Defeat monsters by throwing darts at them.
+
+3. **Scoring:**
+   - Score points by successfully navigating obstacles and defeating monsters.
+
+4. **Game Over:**
+   - Game over screen displays the final score.
+   - Option to restart the game.
+
+## How to Play
+1. **Jump:** Press the UP arrow key.
+2. **Slide:** Press the DOWN arrow key.
+3. **Throw Darts:** Press the SPACEBAR.
+4. **Avoid Obstacles:** Navigate the ninja through saw blades, spikes, and monsters.
+5. **Score Points:** Each successful obstacle avoided or monster defeated earns points.
+
+## Controls
+- **UP Arrow Key:** Jump
+- **DOWN Arrow Key:** Slide
+- **SPACEBAR:** Throw Darts
+
+## Installation
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/minzdat/TeKy_SNLTW1-4.git
+   cd game-ninja-overcoming-levels
+   ```
+2. Install the required dependencies.
+   ```bash
+   pip install pygame
+   ```
+3. Run the game using a Python interpreter.
+   ```bash
+   python game_ninja_overcoming_levels.py
+   ```
+
+## Contribution
+Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your contributions are highly appreciated!
+
+# 2.Student Management System
 
 ## Introduction
 This repository contains a simple Student Management System implemented in Python. The system allows users to manage information about students, including their names, student IDs, and course scores.
