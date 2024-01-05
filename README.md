@@ -21,15 +21,12 @@ This repository contains a simple Ninja game implemented in Python using the Pyg
    - Slide using the DOWN arrow key.
    - Throw darts using the SPACEBAR.
    - Avoid obstacles and stay alive to score points.
-
 2. **Obstacles and Enemies:**
    - Saw blades: Dodge these to avoid being hit.
    - Spikes: Jump over these to avoid getting impaled.
    - Monsters: Defeat monsters by throwing darts at them.
-
 3. **Scoring:**
    - Score points by successfully navigating obstacles and defeating monsters.
-
 4. **Game Over:**
    - Game over screen displays the final score.
    - Option to restart the game.
@@ -61,6 +58,7 @@ This repository contains a simple Ninja game implemented in Python using the Pyg
    ```bash
    python game_ninja_overcoming_levels.py
    ```
+   
 ### How to Play Game Ninja Overcoming Levels
 1. **Jump:** Press the UP arrow key.
 2. **Slide:** Press the DOWN arrow key.
